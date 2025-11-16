@@ -15,3 +15,6 @@ recieved is a variable to hold the un decoded data from the socket. and quote_li
 converted back into a string array
 
 Example test client is included
+
+**Provided UML Diagram to show ZeroMQ request flow**
+<img width="1189" height="606" alt="Screenshot 2025-11-16 at 1 05 47 PM" src="https://github.com/user-attachments/assets/51525a42-01d9-4b0c-9870-a86d8bd48387" />
