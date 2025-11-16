@@ -1,5 +1,5 @@
 Local mircroservice where the client can request random motivational quotes from using ZeroMQ implemented in python.
-The user can request a random quote from a category (Video Games, Music, Pets, School, Sports), from a random category
+The user can request a random quote from a category (Video Games, Music, Pets, School, Sports), or from a random category
 
 Once sockets are bound/connected on port 5555, you can request and recieve data from the random motivational quote generation microservice.
 
