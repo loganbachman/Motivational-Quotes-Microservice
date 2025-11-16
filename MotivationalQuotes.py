@@ -41,8 +41,6 @@ def Get_Quotes(quantity, category):
     else:
         for ii in range(int(quantity)):
             quotes.append(Get_Quote(category))
-
-
     return quotes
 
 while(True):
